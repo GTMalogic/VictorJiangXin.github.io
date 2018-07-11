@@ -1,8 +1,11 @@
 ---
 layout: artical
 title: 比特币：脚本与地址
-tags: 区块链
-categories: 区块链技术
+date: 2018-04-02
+tags: 
+	- 比特币脚本
+	- 隔离见证
+categories: 区块链
 ---
 转自: https://furrybear.github.io/%E7%AC%94%E8%AE%B0/%E5%8C%BA%E5%9D%97%E9%93%BE/%E6%AF%94%E7%89%B9%E5%B8%81%EF%BC%9A%E8%84%9A%E6%9C%AC%E4%B8%8E%E5%9C%B0%E5%9D%80/
 # 一些概念

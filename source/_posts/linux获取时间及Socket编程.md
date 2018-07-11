@@ -1,8 +1,11 @@
 ---
 title: linux获取时间及Socket编程
 layout: artical
-tags: linux
-categories: 笔记
+date: 2018-04-22
+tags: 
+	- linux
+	- socket
+categories: linux学习
 ---
 # 如何获取时间
 UNIX时间戳：从格林威治时间1970年01月01日00时00分00秒起至现在的总秒数。  

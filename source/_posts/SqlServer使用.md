@@ -2,8 +2,10 @@
 layout: artical
 title: SqlServer使用
 date: 2018-04-10 15:01:52
-tags: 笔记
-categories: 数据库
+tags:
+	- 数据库
+	- SQL Server
+categories: 笔记
 ---
 # Sql Server相关  
 在使用Sql Server进行存储时，碰到两个巨大的坑！  

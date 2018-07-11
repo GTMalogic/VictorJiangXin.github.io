@@ -1,8 +1,11 @@
 ---
 layout: artical
 title: linux文件编程
-tags: linux
-categories: 笔记
+date: 2018-04-26
+tags: 
+	- linux 
+	- 文件操作
+categories: linux学习
 ---
 # 概述
 Linux系统讲所有设备都当作文件来处理，因此Linux文件编程极其重要！

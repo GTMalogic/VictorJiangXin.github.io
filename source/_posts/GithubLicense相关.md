@@ -1,7 +1,10 @@
 ---
 layout: artical
 title: 开源代码License
-tag: Github
+date: 2018-04-11 
+tags: 
+	- Github
+	- 开源许可证
 categories: 笔记
 ---
 # 概论

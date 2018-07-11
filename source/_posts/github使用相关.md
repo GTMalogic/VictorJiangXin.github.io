@@ -1,6 +1,7 @@
 ---
 layout: artical
 title: github使用相关
+date: 2018-04-13
 tags: Github
 categories: 笔记
 ---

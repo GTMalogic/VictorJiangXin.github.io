@@ -1,7 +1,10 @@
 ---
 layout: artical
 title: kerberos认证浅析
-tags: 密码学
+date: 2018-04-15
+tags: 
+	- 密码学
+	- kerberos认证
 categories: 计算所
 ---
 # 什么是kerberos
