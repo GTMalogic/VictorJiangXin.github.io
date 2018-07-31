@@ -12,9 +12,9 @@
 
 # Site
 title: 且听风吟
-subtitle: 夕阳西下，断肠人在天涯 
-description: 谈笑有鸿儒，往来无白丁
-author: 姜鑫
+subtitle: 充实生活，快乐coding 
+description: 带点小情怀的研究僧
+author: JiangXin
 language: zh-CN
 keywords: Study to be accomplished, not affluent.Follow excellence, and success will chase you, pants down
 email: jaingxin.hust@foxmail.com
@@ -27,6 +27,14 @@ root: /
 #permalink: :year/:month/:day/:title/
 permalink: /:title/
 permalink_defaults:
+
+#search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 
 # Directory
 source_dir: source
